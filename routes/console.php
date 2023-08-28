@@ -18,6 +18,7 @@ Artisan::command('inspire', function () {
     $this->comment(Inspiring::quote());
 })->purpose('Display an inspiring quote');
 
-Artisan::command('dev', function () {
+/*Artisan::command('dev', function () {
     $this->comment('Eng.AnasAbuSerriyeh');
-})->purpose('Welcome My World');
+})->purpose('Welcome My World');*/
+ 

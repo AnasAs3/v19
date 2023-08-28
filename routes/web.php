@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Anas Waleed Abu Serriyeh';
+    //return 'Anas Waleed Abu Serriyeh';
     return view('welcome');
 });
